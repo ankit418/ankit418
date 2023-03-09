@@ -1,5 +1,7 @@
 ### Hi there 👋 i'm Ankit
 
+
+
 #### About Me
 
 My portfolio [link](https://ankit418.github.io/)
@@ -8,11 +10,11 @@ My linkedin profile [Linkedin](https://www.linkedin.com/in/ankitsharma418/)
 
 💡Skills💡:
 
-HTML
-Python
-Tableau
-Microsoft Excel
-Microsoft SQL Server
+- HTML
+- Python
+- Tableau
+- Microsoft Excel
+- Microsoft SQL Server
 
 
 
