@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 i'm Ankit
+
+✨ About Me in 30 secs✨
+
+My portfolio [link](https://ankit418.github.io/)
+
+My linkedin profile
+
+
 
 <!--
 **ankit418/ankit418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
