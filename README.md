@@ -4,9 +4,9 @@
 
 
 
-- My portfolio [link](https://ankit418.github.io/)
+- My portfolio [Link](https://ankit418.github.io/)
 
-- My linkedin profile [Linkedin](https://www.linkedin.com/in/ankitsharma418/)
+- My linkedin profile [Link](https://www.linkedin.com/in/ankitsharma418/)
 
 💡Skills💡:
 
