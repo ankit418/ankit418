@@ -10,11 +10,11 @@
 
 💡Skills💡:
 
-- HTML
+- SQL
 - Python
 - Tableau
 - Microsoft Excel
-- Microsoft SQL Server
+- PowerBI
 
 
 
